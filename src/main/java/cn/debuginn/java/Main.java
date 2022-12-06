@@ -1,4 +1,4 @@
-package cn.debuginn;
+package cn.debuginn.java;
 
 /**
  * @author debuginn
